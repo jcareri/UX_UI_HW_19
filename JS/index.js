@@ -36,10 +36,10 @@ $( card ).on( "mouseleave", function(){
     $('#e1').animate( { left: "183px" }, 600 );
     $('#n1').animate( { right: "745px" }, 600 );
     $('#n2').animate( { right: "662px" }, 600 );
-    $('#a1').animate( { right: "576px" }, 600 );
-    $('#c').animate( { right: "434px" }, 600 );
-    $('#a2').animate( { right: "349px" }, 600 );
-    $('#r1').animate( { right: "292px" }, 600 );
+    $('#a1').animate( { right: "575px" }, 600 );
+    $('#c').animate( { right: "436px" }, 600 );
+    $('#a2').animate( { right: "348px" }, 600 );
+    $('#r1').animate( { right: "290px" }, 600 );
     $('#e2').animate( { right: "205px" }, 600 );
     $('#r2').animate( { right: "146px" }, 600 );
     $('#i').animate( { right: "105px" }, 600 );

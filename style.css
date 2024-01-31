@@ -259,6 +259,9 @@ button:hover {
     display: flex;
     align-items: center;
 }
+.gridItem:hover {
+    cursor: pointer;
+}
 #ebay {
     background-image: url("Images/Tablet%20card%20blue.png");
     justify-content: right;
